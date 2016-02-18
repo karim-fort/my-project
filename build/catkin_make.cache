@@ -1,0 +1,2 @@
+myrtle
+-DCATKIN_DEVEL_PREFIX=/home/ros/karim_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ros/karim_ws/install -G Unix Makefiles

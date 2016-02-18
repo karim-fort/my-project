@@ -1,0 +1,8 @@
+prefix=/home/ros/karim_ws/devel
+
+Name: myrtle
+Description: Description of myrtle
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ros/karim_ws/devel/lib 
+Requires: 

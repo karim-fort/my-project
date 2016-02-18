@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "myrtle")
+set(myrtle_MAINTAINER "ros <ros@todo.todo>")
+set(myrtle_DEPRECATED "")
+set(myrtle_VERSION "0.0.0")
+set(myrtle_BUILD_DEPENDS "roscpp" "rospy" "sensor_msgs" "std_msgs" "tf")
+set(myrtle_RUN_DEPENDS "roscpp" "rospy" "sensor_msgs" "std_msgs" "tf")
+set(myrtle_BUILDTOOL_DEPENDS "catkin")
